@@ -1,0 +1,22 @@
+{
+  "name": "learninggulp",
+  "version": "1.0.0",
+  "description": "learning how to use gulp",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-dart": "^0.2.5",
+    "gulp-dart-sass": "^1.0.2",
+    "gulp-imagemin": "^8.0.0",
+    "gulp-install": "^1.1.0",
+    "gulp-sass": "^5.0.0",
+    "sass": "^1.42.1"
+  }
+}
